@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #16a085;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+}
+
+body img{
+    width: 80%;
+    height: 80%;
+}
+
+#div1,
+#div2,
+#div3,
+#div4,
+#div5,
+#div6{
+    width: 150px;
+    height: 150px;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
