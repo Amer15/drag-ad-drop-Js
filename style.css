@@ -13,8 +13,8 @@ body{
 }
 
 body img{
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
 }
 
 #div1,
@@ -23,8 +23,8 @@ body img{
 #div4,
 #div5,
 #div6{
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     background: #ffffff;
     display: flex;
     justify-content: center;
